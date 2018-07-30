@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/year_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YEAR" />
+
+    <EditText
+        android:id="@+id/year"
+        android:layout_below="@+id/year_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/startDate_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/year"
+        android:text="StartDate-YYYY/MM/DD" />
+
+    <EditText
+        android:id="@+id/startDate"
+        android:layout_below="@+id/startDate_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/EndDate_Range"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/startDate"
+        android:text="No. of working days" />
+
+    <EditText
+        android:id="@+id/nod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/EndDate_Range"
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/api1"
+        android:layout_below="@+id/nod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="monthlyCash" />
+    <Button
+        android:id="@+id/api2"
+        android:layout_below="@+id/api1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="dailyCash" />
+    <Button
+        android:id="@+id/api3"
+        android:layout_below="@+id/api2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="yearlyAverage" />
+
+    <Button
+        android:id="@+id/unbind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/api3"
+        android:layout_marginTop="42dp"
+        android:text="UNBIND" />
+
+    <Button
+        android:id="@+id/loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/api3"
+        android:layout_marginLeft="43dp"
+        android:layout_marginStart="43dp"
+        android:layout_toEndOf="@+id/startDate_heading"
+        android:layout_toRightOf="@+id/startDate_heading"
+        android:text="SECOND ACTIVITY-LIST OF CALLS" />
+</RelativeLayout>

@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\values\\version.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1489",
+                        "endColumns": "66",
+                        "endOffsets": "1551"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\values\\auth_strings.xml",
+                    "from": {
+                        "startLines": "5,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "253,109",
+                        "endColumns": "91,87",
+                        "endOffsets": "340,192"
+                    },
+                    "to": {
+                        "startLines": "28,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1601,1693",
+                        "endColumns": "91,87",
+                        "endOffsets": "1688,1776"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\values\\common_strings.xml",
+                    "from": {
+                        "startLines": "10,60,52,99,44,39,35,16,31,24,28,20,80,77,13,74,71,8,4,105,102,84,90,87,93,56,48,68,64,96",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "733,4602,4026,7585,3483,3087,2811,1266,2540,1843,2225,1556,6084,5869,1033,5611,5408,449,206,8155,7940,6385,6861,6629,7178,4285,3755,5120,4881,7378",
+                        "endColumns": "160,148,108,235,125,184,124,142,123,216,218,122,164,93,136,140,89,147,102,150,91,110,222,94,104,184,124,178,104,62",
+                        "endOffsets": "889,4746,4130,7816,3604,3267,2931,1404,2659,2055,2439,1674,6244,5958,1165,5747,5493,592,304,8301,8027,6491,7079,6719,7278,4465,3875,5294,4981,7436"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1781,1938,2083,2192,2424,2550,2731,2856,2995,3119,3332,3547,3670,3835,3929,4066,4207,4297,4445,4548,4699,4791,4902,5121,5216,5321,5502,5627,5802,5907",
+                        "endColumns": "156,144,108,231,125,180,124,138,123,212,214,122,164,93,136,140,89,147,102,150,91,110,218,94,104,180,124,174,104,62",
+                        "endOffsets": "1933,2078,2187,2419,2545,2726,2851,2990,3114,3327,3542,3665,3830,3924,4061,4202,4292,4440,4543,4694,4786,4897,5116,5211,5316,5497,5622,5797,5902,5965"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,10,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "208,360,55,151,100",
+                        "endLines": "9,13,2,4,3",
+                        "endColumns": "19,19,44,56,50",
+                        "endOffsets": "355,462,95,203,146"
+                    },
+                    "to": {
+                        "startLines": "2,7,27,60,61",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,257,1556,5970,6027",
+                        "endLines": "6,10,27,60,61",
+                        "endColumns": "19,19,44,56,50",
+                        "endOffsets": "252,359,1596,6022,6073"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\values\\common_colors.xml",
+                    "from": {
+                        "startLines": "12,3,5,6,4,11,7,9,10,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "789,90,256,329,173,716,412,569,643,485",
+                        "endColumns": "60,82,72,82,82,72,72,73,72,83",
+                        "endOffsets": "845,168,324,407,251,784,480,638,711,564"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "364,425,508,581,664,747,820,893,967,1040",
+                        "endColumns": "60,82,72,82,82,72,72,73,72,83",
+                        "endOffsets": "420,503,576,659,742,815,888,962,1035,1119"
+                    }
+                }
+            ]
+        }
+    ]
+}

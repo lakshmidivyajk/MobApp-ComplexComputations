@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_ic_googleplayservices.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_places_fragment.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\places_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_display_fragment.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\display_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\laksh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\95d24f7e500372aa58310b94f0e66067\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ServiceWithIPCExampleClient\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

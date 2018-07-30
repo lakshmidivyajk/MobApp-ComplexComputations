@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\937f299c270bdea50b536ba1839170fa\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\585cb02b9209f1717a291551e5af8e52\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\937f299c270bdea50b536ba1839170fa\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\937f299c270bdea50b536ba1839170fa\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\585cb02b9209f1717a291551e5af8e52\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\585cb02b9209f1717a291551e5af8e52\AndroidManifest.xml:20:5-43
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+uses-permission#course.examples.Services.KeyService.GEN_ID
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:22-79
+application
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:13:5-35:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\937f299c270bdea50b536ba1839170fa\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\937f299c270bdea50b536ba1839170fa\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\585cb02b9209f1717a291551e5af8e52\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\585cb02b9209f1717a291551e5af8e52\AndroidManifest.xml:22:5-20
+	android:icon
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:14:9-36
+activity#course.examples.Services.KeyClient.KeyServiceUser
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:17:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:22:27-74
+activity#course.examples.Services.KeyClient.FragmentActivity
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:26:13-45
+meta-data#com.google.android.gms.version
+ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:32:9-34:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\laksh\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\95d24f7e500372aa58310b94f0e66067\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\ServiceWithIPCExampleClient\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:33:13-58

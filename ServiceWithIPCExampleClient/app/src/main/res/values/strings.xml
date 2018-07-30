@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FedCash</string>
+    <string name="your_id_string">Your ID</string>
+    <string name="get_new_id_string">Get New ID</string>
+    <string-array name="Places">
+        <item>MonthlyCash</item>
+        <item>DailyCash</item>
+        <item>YearlyAverage</item>
+    </string-array>
+    <string-array name="PlacesURL">
+        <item>Hi</item>
+        <item>Hello</item>
+    </string-array>
+</resources>
